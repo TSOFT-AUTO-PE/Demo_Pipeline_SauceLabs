@@ -1,6 +1,5 @@
 package com.tsoft.bot.saucelabs.android.Tests;
 
-import com.tsoft.bot.saucelabs.android.Pages.PageObject_TSOFT;
 import org.openqa.selenium.By;
 import org.openqa.selenium.InvalidElementStateException;
 import org.openqa.selenium.WebDriver;
@@ -19,8 +18,6 @@ import static com.tsoft.bot.saucelabs.android.Pages.PageObject_TSOFT.*;
 
 public class DemoTsoftTest extends TestBase {
 
-    private PageObject_TSOFT pageObject_tsoft;
-
     /**
      * Runs a simple test verifying link can be followed.
      *
@@ -38,8 +35,18 @@ public class DemoTsoftTest extends TestBase {
         //create webdriver session
         this.createDriver(platformName, deviceName, platformVersion, appiumVersion, deviceOrientation, method.getName());
         WebDriver driver = this.getAndroidDriver();
-        pageObject_tsoft.Flujo_Prueba();
 
+        driver.findElement(By.xpath(BTN_INICIAR2)).click();
+        driver.findElement(By.xpath(TXT_USUARIO2)).sendKeys("tsoft1");
+        driver.findElement(By.xpath(TXT_PASSWORD2)).sendKeys("123");
+        Thread.sleep(2000);
+        driver.navigate().back();
+        driver.findElement(By.xpath(BTN_INICIO2)).click();
+        driver.findElement(By.xpath(BTN_MENU2)).click();
+        driver.findElement(By.xpath(PRESENTACION)).click();
+        driver.findElement(By.xpath(ATRAS)).click();
+        driver.findElement(By.xpath(BTN_MENU2)).click();
+        driver.findElement(By.xpath(CERRAR)).click();
     }
 
 }

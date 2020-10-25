@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mobile-automation-framework" />
         <module name="web-automation-framework" />
+        <module name="Demo_Pipeline_SauceLabs" />
       </profile>
     </annotationProcessing>
   </component>
