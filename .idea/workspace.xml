@@ -3,8 +3,27 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="">
+    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="Se realizan cambios para pipeline">
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -230,6 +249,14 @@
       <option name="presentableId" value="Default" />
       <updated>1576531102772</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se realizan cambios para pipeline">
+      <created>1603665175727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603665175727</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +273,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Se realizan cambios para pipeline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se realizan cambios para pipeline" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596160028250">
@@ -256,30 +285,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603421185533" />
-    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1603664671822">
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1603665104504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
-    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603664671822" />
-    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1603664671822">
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603665104504" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1603665104504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="261" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
-    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603664671822" />
-    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1603664671821">
+    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603665104504" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1603665104504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="261" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
-    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603664671821" />
-    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1603664671822">
+    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603665104504" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1603665104504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="261" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
-    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603664671822" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603665104504" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1603433821761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1603433821761" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603665183359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603665183359" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1603211839986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
