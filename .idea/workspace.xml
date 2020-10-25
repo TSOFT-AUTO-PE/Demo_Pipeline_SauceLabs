@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1V57SUtJ2jtO1BzZFtzF13tAaWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tsoft.bot.saucelabs.android.Tests" />
+      <recent name="com.tsoft.bot.frontend.runner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\New Mobile\mobile-automation-framework\src\main\java\com\tsoft\bot\frontend\utility" />
+      <recent name="C:\Users\admin\Desktop\newweb\FrameworkBaseWEB\web-automation-framework\src\main\resources\features" />
+      <recent name="C:\Users\admin\Desktop\newweb\FrameworkBaseWEB\web-automation-framework\src\main\resources\excel" />
+      <recent name="C:\Users\admin\Desktop\newweb\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\frontend\steps" />
+      <recent name="C:\Users\admin\Desktop\newweb\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\frontend\pageobject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DemoTsoftTest">
+    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.kobiton.Base" />
+      <module name="mobile-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.kobiton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: APP_TSOFT" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/APP_TSOFT.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.APP_TSOFT" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="mobile-automation-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: APP_TSOFT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: MyFlight_Login (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/MyFlight_Login.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.myflight com.tsoft.bot.kobiton.runner" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="mobile-automation-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: MyFlight_Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AndroidAppTest" type="TestNG" nameIsGenerated="true">
+      <module name="mobile-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.kobiton.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsoft.bot.kobiton.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.kobiton.runner.AndroidAppTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTsoftTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.saucelabs.android.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsoft.bot.saucelabs.android.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.frontend.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsoft.bot.frontend.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.frontend.runner.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="module" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.saucelabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsoft.bot.saucelabs" />
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.saucelabs.module" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DemoTsoftTest" />
+        <item itemvalue="TestNG.module" />
+        <item itemvalue="Cucumber Java.Feature: MyFlight_Login (1)" />
+        <item itemvalue="TestNG.RunTest (1)" />
+        <item itemvalue="Application.Base" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="" />
+      <created>1576531102772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576531102772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596160028250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596160028250" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603421185533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603421185533" />
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom" timestamp="1603602025082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
+    <state width="1323" height="261" key="GridCell.Tab.0.center" timestamp="1603602025082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
+    <state width="1323" height="261" key="GridCell.Tab.0.left" timestamp="1603602025082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
+    <state width="1323" height="261" key="GridCell.Tab.0.right" timestamp="1603602025082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603602025082" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1603433821761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1603433821761" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1603211839986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603211839986" />
+  </component>
+</project>

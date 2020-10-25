@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="76716" started-at="2020-10-25T06:16:11Z" finished-at="2020-10-25T06:17:27Z">
+    <groups>
+    </groups>
+    <test name="GroupTest" duration-ms="76716" started-at="2020-10-25T06:16:11Z" finished-at="2020-10-25T06:17:27Z">
+      <class name="com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest">
+        <test-method status="PASS" signature="TSOFT_Test_APK_Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest@6500df86]" name="TSOFT_Test_APK_Login" duration-ms="75738" started-at="2020-10-25T01:16:11Z" data-provider="hardCodedBrowsers" finished-at="2020-10-25T01:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung Galaxy Tab S3 GoogleAPI Emulator]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.9.1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[portrait]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest.TSOFT_Test_APK_Login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TSOFT_Test_APK_Login -->
+        <test-method status="PASS" signature="TSOFT_Test_APK_Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest@6500df86]" name="TSOFT_Test_APK_Login" duration-ms="70877" started-at="2020-10-25T01:16:11Z" data-provider="hardCodedBrowsers" finished-at="2020-10-25T01:17:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung Galaxy S9 Plus FHD GoogleAPI Emulator]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.9.1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[portrait]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest.TSOFT_Test_APK_Login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TSOFT_Test_APK_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest@6500df86]" name="tearDown" is-config="true" duration-ms="617" started-at="2020-10-25T01:17:23Z" finished-at="2020-10-25T01:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest@6500df86]" name="tearDown" is-config="true" duration-ms="679" started-at="2020-10-25T01:17:27Z" finished-at="2020-10-25T01:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tsoft.bot.saucelabs.android.Tests.DemoTsoftTest -->
+    </test> <!-- GroupTest -->
+  </suite> <!-- Regression -->
+</testng-results>
